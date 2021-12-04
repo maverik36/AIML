@@ -1,5 +1,5 @@
 # AIML
-This repo is to check in the AIML projects created by Vamsi Pasala
+This repo is to maintain the AIML projects created by Vamsi Pasala
 Repo contains below projects for now
 ############################################################################
 
